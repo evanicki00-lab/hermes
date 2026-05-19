@@ -1,0 +1,5 @@
+﻿/home/hermes/.hermes/hermes-agent/skills
+/home/hermes/.hermes/hermes-agent/tests/skills
+/home/hermes/.hermes/skills
+/home/hermes/.hermes/skills/dogfood/SKILL.md
+/home/hermes/.hermes/skills/yuanbao/SKILL.md
